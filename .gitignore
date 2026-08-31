@@ -1,0 +1,5 @@
+/__pycache__
+*.log
+contacts.txt
+errors/
+whatsapp_profile/
